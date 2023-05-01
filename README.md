@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Carol here!
+
+👩‍💻 Front-end developer  ✨ HTML5 | CSS3 | JavaScript | React | Bootstrap | WordPress | PHP ✨
+
+🌱 Veggie guru
+
+👻 Horror novel aficionado
+
+🐶 Dog enthusiast 
 
 <!--
 **carolb92/carolb92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
