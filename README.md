@@ -1,6 +1,6 @@
 ### Hi there 👋 Carol here!
 
-👩‍💻 Front-end developer  ✨ HTML5 | CSS3 | JavaScript | React | Bootstrap | WordPress | PHP ✨
+👩‍💻 Front-end developer  ✨ HTML5 | CSS3 | Tailwind CSS | JavaScript | React.js | Next.js ✨
 
 🌱 Veggie guru
 
